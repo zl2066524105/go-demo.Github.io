@@ -3,10 +3,15 @@ package main
 import "fmt"
 
 func main() {
-	for i := 1; i <= 9; i++ {
-		for j := 1; j <= i; j++ {
-			fmt.Printf("%d*%d=%2d ", j, i, j*i)
+	var a, b int
+	for a = 2; a <= 100; a++ {
+		for b = 2; b <= (a / b); b++ {
+			if a%b == 0 {
+				break
+			}
 		}
-		fmt.Printf("\n")
+		if b > (a / b) {
+			fmt.Printf("%3d", a)
+		}
 	}
 }
