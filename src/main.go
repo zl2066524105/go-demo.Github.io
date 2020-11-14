@@ -3,10 +3,16 @@ package main
 import "fmt"
 
 func main() {
-	for i := 1; i <= 9; i++ {
-		for j := 1; j <= i; j++ {
-			fmt.Printf("%d*%d=%2d ", j, i, j*i)
+	var C, c int
+	C = 1
+loop:
+	for C < 50 {
+		C++
+		for c = 2; c < C; c++ {
+			if C%c == 0 {
+				goto loop
+			}
 		}
-		fmt.Printf("\n")
+		fmt.Printf("%3d\n", C)
 	}
 }

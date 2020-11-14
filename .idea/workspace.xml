@@ -20,6 +20,20 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/NO.1" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/NO.2" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -122,14 +136,14 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="424" y="235" width="508" height="332" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1366.740@0.28.1366.740" timestamp="1605320978969" />
-    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2" timestamp="1605330673494">
+    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2" timestamp="1605343426262">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1605330673494" />
-    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog" timestamp="1605330668688">
+    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1605343426262" />
+    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog" timestamp="1605343396305">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog/0.28.1366.740@0.28.1366.740" timestamp="1605330668687" />
+    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog/0.28.1366.740@0.28.1366.740" timestamp="1605343396305" />
     <state x="577" y="127" width="603" height="548" key="EnvironmentVariablesDialog" timestamp="1605275056031">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -150,22 +164,22 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="502" y="28" width="351" height="740" key="Github.UntrackedFilesDialog/0.28.1366.740@0.28.1366.740" timestamp="1605320122529" />
-    <state width="1312" height="141" key="GridCell.Tab.0.bottom" timestamp="1605335876819">
+    <state width="1312" height="130" key="GridCell.Tab.0.bottom" timestamp="1605343937357">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="141" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1605335876819" />
-    <state width="1312" height="141" key="GridCell.Tab.0.center" timestamp="1605335876818">
+    <state width="1312" height="130" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1605343937357" />
+    <state width="1312" height="130" key="GridCell.Tab.0.center" timestamp="1605343937356">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="141" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1605335876818" />
-    <state width="1312" height="141" key="GridCell.Tab.0.left" timestamp="1605335876817">
+    <state width="1312" height="130" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1605343937356" />
+    <state width="1312" height="130" key="GridCell.Tab.0.left" timestamp="1605343937356">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="141" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1605335876817" />
-    <state width="1312" height="141" key="GridCell.Tab.0.right" timestamp="1605335876818">
+    <state width="1312" height="130" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1605343937356" />
+    <state width="1312" height="130" key="GridCell.Tab.0.right" timestamp="1605343937357">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="141" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1605335876818" />
+    <state width="1312" height="130" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1605343937357" />
     <state width="1312" height="207" key="GridCell.Tab.1.bottom" timestamp="1605276833415">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -194,10 +208,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="164" y="31" width="1037" height="737" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1605276597549" />
-    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1605333654368">
+    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1605343441429">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1605333654368" />
+    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1605343441429" />
     <state x="490" y="308" width="385" height="187" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605333701715">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
