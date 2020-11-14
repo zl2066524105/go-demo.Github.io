@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2269cca-c4e4-462a-a4ae-5110c0d13aac" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/go_build_main_go" beforeDir="false" afterPath="$PROJECT_DIR$/target/go_build_main_go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zl2066524105/go-demo" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1kEncwBDsygy5ujbpmo6F8bSSjC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +43,7 @@
     <property name="configurable.项目.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RunManager" selected="Go 构建.go build main.go">
@@ -82,7 +91,8 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="273" width="470" height="257" key="#Go_Linter" timestamp="1605274890536">
@@ -101,10 +111,18 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="461" y="106" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.28.1366.740@0.28.1366.740" timestamp="1605275062526" />
-    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2" timestamp="1605320263568">
+    <state x="424" y="235" width="508" height="332" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605320978969">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1605320263568" />
+    <state x="424" y="235" width="508" height="332" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1366.740@0.28.1366.740" timestamp="1605320978969" />
+    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2" timestamp="1605330673494">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="339" y="28" width="678" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1605330673494" />
+    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog" timestamp="1605330668688">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="127" y="90" width="1092" height="629" key="DiffContextDialog/0.28.1366.740@0.28.1366.740" timestamp="1605330668687" />
     <state x="577" y="127" width="603" height="548" key="EnvironmentVariablesDialog" timestamp="1605275056031">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -121,22 +139,22 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="502" y="28" width="351" height="740" key="Github.UntrackedFilesDialog/0.28.1366.740@0.28.1366.740" timestamp="1605320122529" />
-    <state width="1312" height="165" key="GridCell.Tab.0.bottom" timestamp="1605319976481">
+    <state width="1312" height="149" key="GridCell.Tab.0.bottom" timestamp="1605333095954">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="165" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1605319976481" />
-    <state width="1312" height="165" key="GridCell.Tab.0.center" timestamp="1605319976479">
+    <state width="1312" height="149" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1605333095954" />
+    <state width="1312" height="149" key="GridCell.Tab.0.center" timestamp="1605333095954">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="165" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1605319976479" />
-    <state width="1312" height="165" key="GridCell.Tab.0.left" timestamp="1605319976479">
+    <state width="1312" height="149" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1605333095954" />
+    <state width="1312" height="149" key="GridCell.Tab.0.left" timestamp="1605333095953">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="165" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1605319976479" />
-    <state width="1312" height="165" key="GridCell.Tab.0.right" timestamp="1605319976480">
+    <state width="1312" height="149" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1605333095953" />
+    <state width="1312" height="149" key="GridCell.Tab.0.right" timestamp="1605333095954">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1312" height="165" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1605319976480" />
+    <state width="1312" height="149" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1605333095954" />
     <state width="1312" height="207" key="GridCell.Tab.1.bottom" timestamp="1605276833415">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -153,10 +171,26 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1312" height="207" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1605276833414" />
+    <state x="127" y="91" width="1092" height="629" key="MergeDialog" timestamp="1605330432295">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="127" y="91" width="1092" height="629" key="MergeDialog/0.28.1366.740@0.28.1366.740" timestamp="1605330432295" />
+    <state x="311" y="154" width="733" height="495" key="MultipleFileMergeDialog" timestamp="1605330440144">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="311" y="154" width="733" height="495" key="MultipleFileMergeDialog/0.28.1366.740@0.28.1366.740" timestamp="1605330440144" />
     <state x="164" y="31" width="1037" height="737" key="SettingsEditor" timestamp="1605276597549">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="164" y="31" width="1037" height="737" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1605276597549" />
+    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1605330698469">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1605330698469" />
+    <state x="490" y="308" width="385" height="187" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605330462233">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="490" y="308" width="385" height="187" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1366.740@0.28.1366.740" timestamp="1605330462233" />
     <state x="0" y="28" width="638" height="740" key="find.popup" timestamp="1605274909117">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
